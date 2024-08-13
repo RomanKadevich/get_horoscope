@@ -1,4 +1,3 @@
-// src/ZodiacCard.tsx
 import { useContext, useEffect, useState } from "react";
 import { LanguageContext } from "../context/LanguageContext";
 import { Horoscopes, url, ZodiacSignProps } from "../constants/types";

@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import "./App.css";
+import "./App.scss";
 import { LanguageContext } from "./context/LanguageContext";
 import ZodiacBox from "./components/ZodiacBox";
 import { zodiacSigns } from "./constants/constants";
