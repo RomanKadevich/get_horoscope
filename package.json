@@ -1,5 +1,5 @@
 {
-  "name": "vite-boilerplate",
+  "name": "get-horos",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,8 +12,11 @@
   "dependencies": {
     "@twa-dev/sdk": "^6.7.1",
     "@vitejs/plugin-basic-ssl": "^1.0.1",
+    "get": "file:",
+    "get-horos": "file:",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "vite-boilerplate": "file:"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
